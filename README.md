@@ -44,7 +44,7 @@ Predict the regional origin of Indonesian dishes based on their list of ingredie
 
 ---
 
-# 📦 How to Run
+# How to Run
 1. Install dependencies:
 pip install -r requirements.txt
 
