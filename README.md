@@ -37,7 +37,7 @@ Predict the regional origin of Indonesian dishes based on their list of ingredie
 
 ---
 
-## 🧪 Evaluation Results
+# Evaluation Results
 - Accuracy: ~87% (test set)
 - 10-fold cross-validation: ~86%
 - Includes classification report and confusion matrix
